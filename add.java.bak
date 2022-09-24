@@ -1,0 +1,8 @@
+public class Add
+{
+<<<<<<< HEAD
+	public static void main(String [] args)
+=======
+
+>>>>>>> 61a2cf315cbb206476d6eac49f5fac1b4d68900c
+}
