@@ -1,4 +1,4 @@
-public class Mul{
+public class MultiplyRoopa{
 
 }
 
