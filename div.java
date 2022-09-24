@@ -1,8 +1,5 @@
 public class Divide
 {
-	public void 1(){
-		SOS
-	}
 	
 	
 	
@@ -19,9 +16,16 @@ public class Divide
 	
 	
 	
-	public void m2(){
-		Systemout
-	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
