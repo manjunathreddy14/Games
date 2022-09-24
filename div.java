@@ -7,6 +7,8 @@ public class Divide
 		SSSSSSSSSSSSSSSSSSSSSSSSs
  
 		SYSO
+		
+		SYSO
  
 	}
 	
