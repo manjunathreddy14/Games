@@ -24,7 +24,7 @@ public class Divide
 	
 	
 	
-	public void m2Vihana(){
+	public void m2VihanaSecond(){
 		
 	}
 	
