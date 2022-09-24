@@ -1,3 +1,3 @@
-public class Mul{
+public class Multiply{
 
 }
