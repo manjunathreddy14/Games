@@ -6,7 +6,7 @@ public class Divide
  
 		SSSSSSSSSSSSSSSSSSSSSSSSs
  
-		SYSO
+		SYSOOOOOOOOOOOOOOooo
  
 	}
 	
