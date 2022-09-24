@@ -1,4 +1,4 @@
-public class MultiplyRoopa{
+public class MultiplyHiHi{
 
 }
 
