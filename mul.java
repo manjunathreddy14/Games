@@ -2,6 +2,6 @@ public class Mul{
 
 }
 
-public class Mul{
+public class MulVihana{
 
 }
