@@ -1,1 +1,1 @@
-public class Div
+public class Divide
